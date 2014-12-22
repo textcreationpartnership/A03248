@@ -35,12 +35,33 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The royall king, and the loyall subject As it hath beene acted with great applause by the Queenes Ma
+
+1. The Prologue to the Stage.
+
+1. Dramatis Personae.
+
 #####Body#####
 
-1. Scena prima.
+1. The Royall King,
+AND
+The Loyall Subiect.
 
-1. Scena Secunda.
+    _ Actus primus,
+
+      * Scena prima.
+
+    _ Actus Secundus,
+
+      * Scena Secunda.
+
+    _ Actus tertius.
+
+    _ Actus quartus.
+
+    _ Actus Quintus.
+
+1. The Epilogue to the
+Reader.
 
 **Types of content**
 
